@@ -86,7 +86,7 @@ $ yay -Sy update && yay -Sy upgrade
 Install common tools used for simulating DDoS attacks, such as `hping3` and `slowloris`:
 
 ```bash
-$ sudo yay -S hping3 slowloris
+$ sudo yay -S hping slowloris
 ```
 
 #### Simulate DDoS Attack with hping3
